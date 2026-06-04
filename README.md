@@ -86,7 +86,7 @@ ipconfig
 
 Exemplo:
 
-http://192.168.1.230:5000/click
+http://000.000.0.000:5000/click
 
 ## Estrutura do Projeto
 
