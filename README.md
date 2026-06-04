@@ -105,9 +105,9 @@ MouseWifiMIT
 
 python mouse.py
 
-5. Descubra o IPv4 com:
+5. Descubra o IP com:
 
-ipconfig
+ipconfig - (no cmd)
 
 6. Atualize o IP no aplicativo MIT App Inventor.
 7. Conecte o celular e o computador na mesma rede Wi-Fi.
