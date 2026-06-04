@@ -120,6 +120,12 @@ ipconfig - (no cmd)
 * Caso o IP mude, atualize o endereço no aplicativo.
 * O servidor deve permanecer aberto enquanto o aplicativo estiver sendo utilizado.
 
+## 📦 Importar o Projeto
+
+Baixe o arquivo `MouseWifiMIT.aia` e importe diretamente no MIT App Inventor:
+
+Projects → Import project (.aia)
+
 ## Autor
 
 Projeto desenvolvido utilizando:
