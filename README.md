@@ -128,3 +128,7 @@ Projeto desenvolvido utilizando:
 * Python
 * Flask
 * PyAutoGUI
+
+![Design do App](mousemitdesign.png)
+
+![Blocos MIT App Inventor](blocks.png)
