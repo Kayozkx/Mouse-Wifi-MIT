@@ -56,7 +56,7 @@ Endereço IPv4
 
 Exemplo:
 
-192.168.1.230
+000.000.0.000
 
 Esse endereço deverá ser utilizado no aplicativo MIT App Inventor.
 
