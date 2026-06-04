@@ -4,18 +4,19 @@ import pyautogui
 app = Flask(__name__)
 
 # Segurança do PyAutoGUI
+
 pyautogui.FAILSAFE = True
 
-# =========================
+
 # TESTE DE CONEXÃO
-# =========================
+
 @app.route('/ping')
 def ping():
     return "ONLINE"
 
-# =========================
+
 # MOVIMENTO DO MOUSE
-# =========================
+
 @app.route('/move')
 def move():
 
@@ -41,9 +42,9 @@ def move():
         return str(erro), 500
 
 
-# =========================
+
 # CLIQUE ESQUERDO
-# =========================
+
 @app.route('/click')
 def click():
 
@@ -52,9 +53,9 @@ def click():
     return "CLICK"
 
 
-# =========================
+
 # CLIQUE DIREITO
-# =========================
+
 @app.route('/rightclick')
 def rightclick():
 
@@ -63,14 +64,14 @@ def rightclick():
     return "RIGHT"
 
 
-# =========================
+
 # INICIAR SERVIDOR
-# =========================
+
 if __name__ == '__main__':
 
     print("=" * 40)
     print("SERVIDOR MOUSE WIFI INICIADO")
-    print("IP: 192.168.1.230")
+    print("IP: veja com 'ipconfig' no terminal")
     print("PORTA: 5000")
     print("=" * 40)
 
