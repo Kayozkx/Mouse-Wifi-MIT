@@ -131,4 +131,4 @@ Projeto desenvolvido utilizando:
 
 ![Design do App](assets/mousemitdesign.png)
 
-![Blocos MIT App Inventor](assets/blocks.png)
+![Blocos MIT App Inventor](assets/blocks_mit.png)
