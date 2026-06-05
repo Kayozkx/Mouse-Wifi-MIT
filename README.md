@@ -138,3 +138,5 @@ Projeto desenvolvido utilizando:
 ![Design do App](assets/tela_mouse.png)
 
 ![Blocos MIT App Inventor](assets/blocks_mit.png)
+
+> Desenvolvido dia 04 de junho de 2026.
