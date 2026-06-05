@@ -1,6 +1,6 @@
 # Mouse Wifi MIT App Inventor
 
-Projeto de mouse remoto para computador utilizando MIT App Inventor e Python. Esse projeto é extremamente simples e básico apenas para testes.
+Projeto de mouse remoto para computador utilizando MIT App Inventor e Python. Esse projeto é apenas para testes.
 
 ## O que este projeto faz
 
