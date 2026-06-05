@@ -139,4 +139,4 @@ Projeto desenvolvido utilizando:
 
 ![Blocos MIT App Inventor](assets/blocks_mit.png)
 
-> Desenvolvido dia 04 de junho de 2026.
+>Desenvolvido dia 04 de junho de 2026.
