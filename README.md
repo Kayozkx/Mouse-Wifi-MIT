@@ -1,17 +1,49 @@
-# Mouse Wifi MIT App Inventor
+![Banner](assets/banner.png)
 
-Projeto de mouse remoto para computador utilizando MIT App Inventor e Python.
+# 🖱️ Mouse Wifi — MIT App Inventor
 
-## O que este projeto faz
+![MIT App Inventor](https://img.shields.io/badge/Engine-MIT%20App%20Inventor-blue)
+![Python](https://img.shields.io/badge/Server-Python%20Flask-yellow)
+![Plataforma](https://img.shields.io/badge/Plataforma-Android%20%7C%20Windows-green)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
-Este projeto transforma um celular Android em um touchpad remoto.
+## 📋 Índice
 
-Funcionalidades:
+- [Sobre o Projeto](#-sobre-o-projeto)
+- [Funcionalidades](#-funcionalidades)
+- [Requisitos](#-requisitos)
+- [Instalação](#-instalação)
+- [Como Descobrir o IP](#-como-descobrir-o-ip)
+- [Configuração no MIT App Inventor](#-configuração-no-mit-app-inventor)
+- [Telas do App](#-telas-do-app)
+- [Como Usar em Outro Computador](#-como-usar-em-outro-computador)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Observações](#-observações)
+- [Importar o Projeto](#-importar-o-projeto)
+- [O que Aprendi](#-o-que-aprendi)
+- [Autor](#️-autor)
 
-* Clique esquerdo
-* Clique direito
-* Controle pela rede Wi-Fi local
-* Compatível com aplicativos desenvolvidos no MIT App Inventor
+---
+
+## 📱 Sobre o Projeto
+
+Mouse Wifi transforma um celular Android em um touchpad remoto para controlar o computador via rede Wi-Fi local. O celular se comunica com um servidor Python rodando no PC, enviando comandos de movimentação e clique em tempo real.
+
+**Ferramenta:** MIT App Inventor
+**Servidor:** Python com Flask e PyAutoGUI
+**Conexão:** Wi-Fi local
+**Plataforma:** Android + Windows
+
+---
+
+## ✅ Funcionalidades
+
+- Movimentação do cursor pelo touchpad da tela
+- Clique esquerdo
+- Clique direito
+- Controle via rede Wi-Fi local
+
+---
 
 ## Requisitos
 
@@ -126,7 +158,7 @@ Caso prefira, baixe o arquivo `MouseWifiMIT.aia` e importe diretamente no MIT Ap
 
 Projects → Import project (.aia)
 
-## Autor
+---
 
 Projeto desenvolvido utilizando:
 
